@@ -21,7 +21,7 @@ difficulty: 3
 
 Remove the 4 screws at the back of the device and expose the board. The board is mounted to the front panel and can be
 un screwed also to install a permanent 4 pin header to attach jumper cables. Hold down the button while powering on the
-device to put it into bootloader mode.
+device to put it into bootloader mode. The power a standard USB-to-serial converter can supply is too low. If flashing doesn't work, use an additional 3.3V power supply.
 
 ## Product Images
 
